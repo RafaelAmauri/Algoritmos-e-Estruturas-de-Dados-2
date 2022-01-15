@@ -1,6 +1,6 @@
 ## Algoritmos e Estruturas de Dados 2 - AED 2
 
-Meus arquivos para a matéria de Algoritmos e Estruturas de Dados 2 (AED2) da PUC Minas com o professor Felipe.
+Meus arquivos para a matéria de Algoritmos e Estruturas de Dados 2 (AED2) da PUC Minas com o professor Felipe Domingos da Cunha.
 
 Meus códigos inteiros ou trechos deles podem ser usados por todos, sem restrições. Tenha em mente que eu **NÃO** me responsabilizo por possíveis acusações de plágio ou cola, sejam elas por parte da PUC-MG ou qualquer outra instituição/pessoa.
 

@@ -8,7 +8,7 @@ O uso dos códigos neste repositório é por conta e risco do usuário.
 
 Use o script unzip.sh como atalho para extrair os times para a sua /tmp. Isso facilita o uso dos pub.in e dos pub.out
 
-``` Para habilitar o script, digite chmod +x unzip.sh ```
+Para habilitar o script, digite ```chmod +x unzip.sh ```
 
 ### Os pub.in e pub.out estão dentro das pastas das questoes, junto com o codigo fonte!!
 
